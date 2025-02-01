@@ -30,3 +30,8 @@ Run end-to-end tests for modern web applications.
 ## Vision
 
 A general purpose agent, that can operate any browser, desktop, mobile device or robot in the world.
+
+## Urls
+
+[website](https://openoperator.co)
+[github](https://github.com/j0yk1ll/openoperator)
